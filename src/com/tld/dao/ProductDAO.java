@@ -6,6 +6,7 @@ la récupération de tous les produits, l'ajout d'un nouveau produit, la suppres
 En définissant cette interface, elle offre une abstraction permettant aux implémentations concrètes, telles que `ProductDAOImpl`,
 d'interagir avec diverses sources de données, comme une base de données, sans exposer les détails de mise en œuvre à l'utilisateur du DAO.
 Cela favorise la modularité et la flexibilité du code, permettant de changer facilement l'implémentation sous-jacente sans modifier le code client.
+@Talace
 */
 
 package com.tld.dao;

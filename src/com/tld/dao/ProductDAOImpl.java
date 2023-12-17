@@ -7,6 +7,7 @@ l'ajout d'un nouveau produit, la suppression d'un produit par son identifiant, e
 Chaque méthode utilise des requêtes SQL pour interagir avec la base de données, et des précautions sont prises pour gérer les connexions
 et fermer correctement les ressources afin d'éviter les fuites de mémoire et de connexion. Des messages de console sont également
 affichés pour informer l'utilisateur du succès ou de l'échec des opérations effectuées sur la base de données.
+@Talace
 */
 
 package com.tld.dao;

@@ -13,3 +13,5 @@ La classe modèle (`Product`) définit la structure d'un produit avec des attrib
 
 ### 4. Scripts de Configuration de la Base de Données
 Les scripts mentionnés dans le projet sont probablement des scripts SQL contenant les requêtes nécessaires pour créer les tables et effectuer d'autres opérations sur la base de données H2. Ces scripts sont essentiels pour initialiser et configurer la base de données utilisée dans votre projet.
+
+@Talace

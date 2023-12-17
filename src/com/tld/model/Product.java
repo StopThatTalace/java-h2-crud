@@ -4,6 +4,7 @@ la description, le prix, la quantité en stock, la disponibilité et la date de 
 Les méthodes getters et setters permettent d'accéder et de modifier ces attributs, et
 la méthode toString génère une représentation textuelle de l'objet Product.
 Cette classe est utilisée pour représenter les produits dans le contexte d'une application de gestion de magasin, par exemple.
+@Talace
 */
 
 package com.tld.model;
