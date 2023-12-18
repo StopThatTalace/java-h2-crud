@@ -8,6 +8,8 @@ Le modèle DAO (Data Access Object) fournit une interface abstraite à certains 
 ### 2. Utilisation de JUnit5 pour les Tests de Requêtes à la Base de Données
 JUnit5 est un framework de test pour Java facilitant la création et l'exécution de tests unitaires. Dans votre projet, les tests unitaires sont réalisés avec JUnit5 pour s'assurer du bon fonctionnement des méthodes implémentées dans la classe `ProductDAOImpl`. Ces tests garantissent le bon déroulement des opérations sur la base de données, telles que l'ajout, la récupération, la mise à jour et la suppression de produits.
 
+![2023-12-17_14h51_18](https://github.com/StopThatTalace/java-h2-crud/assets/117742366/37af1065-1a5b-47ef-80f4-578e57c58e4f)
+
 ### 3. Définition de la Classe Modèle
 La classe modèle (`Product`) définit la structure d'un produit avec des attributs tels que l'identifiant, le nom, la description, le prix, la quantité en stock, la disponibilité et la date de création. Cette classe est utilisée pour représenter les produits dans le contexte d'une application de gestion d'articles, par exemple.
 
